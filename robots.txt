@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://yyexela.github.io/
+Sitemap: https://yyexela.github.io//sitemap.xml

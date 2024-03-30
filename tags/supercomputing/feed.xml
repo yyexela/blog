@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Alexey&#39;s Blog</title>
+      <link>https://yyexela.github.io//blog</link>
+      <description>Musings on different things.</description>
+      <language>en-us</language>
+      <managingEditor>yyexela@gmail.com (Alexey Yermakov)</managingEditor>
+      <webMaster>yyexela@gmail.com (Alexey Yermakov)</webMaster>
+      <lastBuildDate>Fri, 29 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://yyexela.github.io//tags/supercomputing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://yyexela.github.io//blog/research/using-hyak-guide</guid>
+    <title>Getting Started with Hyak</title>
+    <link>https://yyexela.github.io//blog/research/using-hyak-guide</link>
+    <description>My journey getting started with UW&#39;s Hyak supercomputer</description>
+    <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+    <author>yyexela@gmail.com (Alexey Yermakov)</author>
+    <category>Research</category><category>Supercomputing</category>
+  </item>
+
+    </channel>
+  </rss>
