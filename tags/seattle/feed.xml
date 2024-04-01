@@ -8,7 +8,7 @@
       <managingEditor>yyexela@gmail.com (Alexey Yermakov)</managingEditor>
       <webMaster>yyexela@gmail.com (Alexey Yermakov)</webMaster>
       <lastBuildDate>Sat, 30 Mar 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://yyexela.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://yyexela.github.io//tags/seattle/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://yyexela.github.io//blog/restaurants/midnite-ramen</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
     <author>yyexela@gmail.com (Alexey Yermakov)</author>
     <category>Restaurants</category><category>Seattle</category>
-  </item>
-
-  <item>
-    <guid>https://yyexela.github.io//blog/research/using-hyak-guide</guid>
-    <title>Getting Started with Hyak</title>
-    <link>https://yyexela.github.io//blog/research/using-hyak-guide</link>
-    <description>My journey getting started with UW&#39;s Hyak supercomputer</description>
-    <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-    <author>yyexela@gmail.com (Alexey Yermakov)</author>
-    <category>Research</category><category>Supercomputing</category>
   </item>
 
     </channel>
