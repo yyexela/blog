@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>yyexela@gmail.com (Alexey Yermakov)</managingEditor>
       <webMaster>yyexela@gmail.com (Alexey Yermakov)</webMaster>
-      <lastBuildDate>Sun, 31 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://yyexela.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://yyexela.github.io//blog/baking/fruit-tart</guid>
+    <title>Fruit Tart</title>
+    <link>https://yyexela.github.io//blog/baking/fruit-tart</link>
+    <description>Baking a fruit tart</description>
+    <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
+    <author>yyexela@gmail.com (Alexey Yermakov)</author>
+    <category>Baking</category>
+  </item>
+
   <item>
     <guid>https://yyexela.github.io//blog/restaurants/midnite-ramen</guid>
     <title>Midnite Ramen</title>
