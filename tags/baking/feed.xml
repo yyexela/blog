@@ -14,7 +14,7 @@
     <guid>https://yyexela.github.io//blog/baking/fruit-tart</guid>
     <title>Fruit Tart</title>
     <link>https://yyexela.github.io//blog/baking/fruit-tart</link>
-    <description>Baking a fruit tart</description>
+    <description>Baking a Fruit Tart</description>
     <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
     <author>yyexela@gmail.com (Alexey Yermakov)</author>
     <category>Baking</category>
@@ -28,6 +28,16 @@
     <pubDate>Sun, 05 May 2024 07:00:00 GMT</pubDate>
     <author>yyexela@gmail.com (Alexey Yermakov)</author>
     <category>Baking</category>
+  </item>
+
+  <item>
+    <guid>https://yyexela.github.io//blog/baking/proofer</guid>
+    <title>Proofer</title>
+    <link>https://yyexela.github.io//blog/baking/proofer</link>
+    <description>Making a Proofing Box</description>
+    <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+    <author>yyexela@gmail.com (Alexey Yermakov)</author>
+    <category>Baking</category><category>Projects</category>
   </item>
 
     </channel>
