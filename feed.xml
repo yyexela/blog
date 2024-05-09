@@ -11,6 +11,16 @@
       <atom:link href="https://yyexela.github.io//feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
+    <guid>https://yyexela.github.io//blog/baking/challah-bread</guid>
+    <title>Challah Bread</title>
+    <link>https://yyexela.github.io//blog/baking/challah-bread</link>
+    <description>Baking Challah</description>
+    <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+    <author>yyexela@gmail.com (Alexey Yermakov)</author>
+    <category>Baking</category>
+  </item>
+
+  <item>
     <guid>https://yyexela.github.io//blog/baking/proofer</guid>
     <title>Proofer</title>
     <link>https://yyexela.github.io//blog/baking/proofer</link>
