@@ -41,6 +41,16 @@
   </item>
 
   <item>
+    <guid>https://yyexela.github.io//blog/baking/parmesan-focaccia</guid>
+    <title>Parmesan Focaccia</title>
+    <link>https://yyexela.github.io//blog/baking/parmesan-focaccia</link>
+    <description>Parmesan Focaccia</description>
+    <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+    <author>yyexela@gmail.com (Alexey Yermakov)</author>
+    <category>Baking</category>
+  </item>
+
+  <item>
     <guid>https://yyexela.github.io//blog/baking/proofer</guid>
     <title>Proofer</title>
     <link>https://yyexela.github.io//blog/baking/proofer</link>
@@ -48,16 +58,6 @@
     <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
     <author>yyexela@gmail.com (Alexey Yermakov)</author>
     <category>Baking</category><category>Projects</category>
-  </item>
-
-  <item>
-    <guid>https://yyexela.github.io//blog/cooking/parmesan-focaccia</guid>
-    <title>Parmesan Focaccia</title>
-    <link>https://yyexela.github.io//blog/cooking/parmesan-focaccia</link>
-    <description>Parmesan Focaccia</description>
-    <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-    <author>yyexela@gmail.com (Alexey Yermakov)</author>
-    <category>Baking</category>
   </item>
 
     </channel>
